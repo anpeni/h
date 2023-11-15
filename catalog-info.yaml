@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "h"
-  description: "h"
+  name: "hola"
+  description: "hola"
   annotations:
-    github.com/project-slug: h/h
+    github.com/project-slug: anpeni/anpeni
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
