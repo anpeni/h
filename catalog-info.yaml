@@ -4,7 +4,7 @@ metadata:
   name: "hola"
   description: "hola"
   annotations:
-    github.com/project-slug: anpeni/anpeni
+    github.com/project-slug: anpeni/h
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
