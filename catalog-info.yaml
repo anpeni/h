@@ -1,12 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "hola"
-  description: "hola"
-  annotations:
-    github.com/project-slug: anpeni/h
-    backstage.io/techdocs-ref: dir:.
+  name: "Componente22"
 spec:
   type: service
+  owner: user:guest
   lifecycle: experimental
-  owner: "group:default/h"
